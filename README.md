@@ -9,5 +9,5 @@ Getting better at C# and web technologies is my main goal
 - :ice_cube: Experienced at **blender 3d**
 - :world_map: Fluent in **Polish and English**
 - :art: Passionate about **3D modeling and animation**
-- 📫 How to reach me: adampro20011@gmail.com
+- 📫 How to reach me: adamprosniewski@protonmail.com
 - :framed_picture: My ArtStation profile: https://www.artstation.com/adam_prosniewski
