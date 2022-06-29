@@ -5,7 +5,7 @@ Getting better at C# and web technologies is my main goal
 
 - :mortar_board: Currently studying **information systems** at the **University of Gdańsk Poland**
 - 🔭 Working on: **projects related to my field of study**
-- :open_book: Learning: **C#, java, javascript, HTML/CSS and SQL**
+- :open_book: Learning: **C#, java, javascript, HTML/CSS, React and SQL**
 - :ice_cube: Experienced at **blender 3d**
 - :world_map: Fluent in **Polish and English**
 - :art: Passionate about **3D modeling and animation**
